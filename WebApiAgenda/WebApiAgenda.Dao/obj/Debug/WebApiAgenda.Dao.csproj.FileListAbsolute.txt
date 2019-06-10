@@ -1,0 +1,17 @@
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\WebApiAgenda.Dao.dll.config
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\WebApiAgenda.Dao.dll
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\WebApiAgenda.Dao.pdb
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\EntityFramework.dll
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\log4net.dll
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\WebApiAgenda.DataModel.dll
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\WebApiAgenda.ViewModel.dll
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\WebApiAgenda.DataModel.pdb
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\WebApiAgenda.DataModel.dll.config
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\WebApiAgenda.ViewModel.pdb
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\EntityFramework.xml
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\bin\Debug\log4net.xml
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\obj\Debug\WebApiAgenda.Dao.csprojAssemblyReference.cache
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\obj\Debug\WebApiAgenda.Dao.csproj.CoreCompileInputs.cache
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\obj\Debug\WebApiAgenda.Dao.csproj.CopyComplete
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\obj\Debug\WebApiAgenda.Dao.dll
+C:\Projects\WebApiAgenda\WebApiAgenda.Dao\obj\Debug\WebApiAgenda.Dao.pdb

@@ -1,0 +1,7 @@
+[BEGIN LOGGING AT 2019-06-10 19:10:57,548]
+
+[END LOGGING AT 2019-06-10 19:10:57,562]
+[BEGIN LOGGING AT 2019-06-10 19:10:58,252]
+2019-06-10 19:10:58,940 - 30 - 12 - Inicio - GET - Contactos
+2019-06-10 19:11:09,765 - 168 - 12 - Error: 
+2019-06-10 19:11:09,860 - 52 - 12 - Error: No connection string named 'AgendaDB' could be found in the application config file.

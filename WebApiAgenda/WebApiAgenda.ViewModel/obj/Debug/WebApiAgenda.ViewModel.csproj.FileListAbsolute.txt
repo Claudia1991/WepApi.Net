@@ -1,0 +1,6 @@
+C:\Projects\WebApiAgenda\WebApiAgenda.ViewModel\bin\Debug\WebApiAgenda.ViewModel.dll
+C:\Projects\WebApiAgenda\WebApiAgenda.ViewModel\bin\Debug\WebApiAgenda.ViewModel.pdb
+C:\Projects\WebApiAgenda\WebApiAgenda.ViewModel\obj\Debug\WebApiAgenda.ViewModel.csprojAssemblyReference.cache
+C:\Projects\WebApiAgenda\WebApiAgenda.ViewModel\obj\Debug\WebApiAgenda.ViewModel.csproj.CoreCompileInputs.cache
+C:\Projects\WebApiAgenda\WebApiAgenda.ViewModel\obj\Debug\WebApiAgenda.ViewModel.dll
+C:\Projects\WebApiAgenda\WebApiAgenda.ViewModel\obj\Debug\WebApiAgenda.ViewModel.pdb
