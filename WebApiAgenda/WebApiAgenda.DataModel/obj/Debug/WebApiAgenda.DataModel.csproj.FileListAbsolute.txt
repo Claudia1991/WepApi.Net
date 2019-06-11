@@ -22,3 +22,5 @@ C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgend
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.csproj.CopyComplete
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.dll
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.pdb
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.Migrations.V1.resources
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.csproj.GenerateResource.cache

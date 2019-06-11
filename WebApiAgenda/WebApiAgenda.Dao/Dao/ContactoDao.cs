@@ -24,7 +24,13 @@ namespace WebApiAgenda.Dao.Dao
             {
                 using (var context = new AgendaContext())
                 {
-                    context.Contactos.Add(contactoEntity);
+                    context.Contactos.Add(new ContactoEntity()
+                    {
+                        NombreContacto = viewModel.NombreContacto,
+                        ApellidoContacto = viewModel.ApellidoContacto,
+                        TelefonoContacto = viewModel.TelefonoContacto,
+                        MailContacto = viewModel.MailContacto
+                    });
                     context.SaveChanges();
                 }
                 Log.Debug("Se agrego el contacto.");

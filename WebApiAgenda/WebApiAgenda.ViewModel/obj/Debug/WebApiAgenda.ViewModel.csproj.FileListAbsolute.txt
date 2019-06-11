@@ -9,3 +9,4 @@ C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.ViewModel\bin\Debug\WebApiAgend
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.ViewModel\obj\Debug\WebApiAgenda.ViewModel.csproj.CoreCompileInputs.cache
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.ViewModel\obj\Debug\WebApiAgenda.ViewModel.dll
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.ViewModel\obj\Debug\WebApiAgenda.ViewModel.pdb
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.ViewModel\obj\Debug\WebApiAgenda.ViewModel.csprojAssemblyReference.cache

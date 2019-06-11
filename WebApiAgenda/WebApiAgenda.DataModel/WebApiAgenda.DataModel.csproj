@@ -53,9 +53,18 @@
     <Compile Include="DataModel\AgendaContext.cs" />
     <Compile Include="DataModel\BaseEntity.cs" />
     <Compile Include="DataModel\ContactoEntity.cs" />
+    <Compile Include="Migrations\201906111539502_V1.cs" />
+    <Compile Include="Migrations\201906111539502_V1.Designer.cs">
+      <DependentUpon>201906111539502_V1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201906111539502_V1.resx">
+      <DependentUpon>201906111539502_V1.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />

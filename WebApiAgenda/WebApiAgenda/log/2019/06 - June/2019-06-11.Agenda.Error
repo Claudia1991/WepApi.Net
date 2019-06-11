@@ -40,3 +40,52 @@
 [BEGIN LOGGING AT 2019-06-11 11:22:43,905]
 
 [END LOGGING AT 2019-06-11 11:22:43,923]
+[BEGIN LOGGING AT 2019-06-11 11:57:46,680]
+
+[END LOGGING AT 2019-06-11 11:57:46,691]
+[BEGIN LOGGING AT 2019-06-11 12:01:35,462]
+
+[END LOGGING AT 2019-06-11 12:01:35,471]
+[BEGIN LOGGING AT 2019-06-11 12:01:35,719]
+2019-06-11 12:06:00,531 - 41 - 11 - Error: System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Contactos' when IDENTITY_INSERT is set to OFF.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<NonQuery>b__0(DbCommand t, DbCommandInterceptionContext`1 c)
+   en System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   en System.Data.Entity.Internal.InterceptableDbCommand.ExecuteNonQuery()
+   en System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   en System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.<Update>b__2(UpdateTranslator ut)
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update[T](T noChangesResult, Func`2 updateFunction)
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update()
+   en System.Data.Entity.Core.Objects.ObjectContext.<SaveChangesToStore>b__35()
+   en System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   en System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   en System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+2019-06-11 12:06:05,849 - 107 - 11 - Error: An error occurred while updating the entries. See the inner exception for details.
+[BEGIN LOGGING AT 2019-06-11 12:10:20,653]
+
+[END LOGGING AT 2019-06-11 12:10:20,662]
+[BEGIN LOGGING AT 2019-06-11 12:25:14,971]
+
+[END LOGGING AT 2019-06-11 12:25:14,981]
+[BEGIN LOGGING AT 2019-06-11 12:31:47,818]
+
+[END LOGGING AT 2019-06-11 12:31:47,828]
+[BEGIN LOGGING AT 2019-06-11 12:43:44,642]
+
+[END LOGGING AT 2019-06-11 12:43:44,650]

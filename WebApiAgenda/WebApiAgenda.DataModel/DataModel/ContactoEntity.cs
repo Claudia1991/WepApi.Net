@@ -11,9 +11,9 @@ namespace WebApiAgenda.DataModel.DataModel
     {
         [Key]
         [Column(Order = 0)]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int IdContacto { get; set; }
 
-        [Key]
         [Column(Order = 1)]
         [StringLength(50)]
         public string NombreContacto { get; set; }
@@ -21,11 +21,10 @@ namespace WebApiAgenda.DataModel.DataModel
         [StringLength(50)]
         public string ApellidoContacto { get; set; }
 
-        [Key]
         [Column(Order = 2)]
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int TelefonoContacto { get; set; }
 
+        [Column(Order = 3)]
         [StringLength(50)]
         public string MailContacto { get; set; }
     }

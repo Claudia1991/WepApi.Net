@@ -135,7 +135,6 @@ C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\bin\System.Web.Http.WebHost.dll
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\bin\WebApiAgenda.Dao.dll
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\bin\WebApiAgenda.ViewModel.dll
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\bin\WebApiAgenda.DataModel.dll
-C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\bin\EntityFramework.dll
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\bin\WebApiAgenda.Dao.pdb
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\bin\WebApiAgenda.Dao.dll.config
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\bin\WebApiAgenda.ViewModel.pdb
@@ -156,5 +155,4 @@ C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\obj\Debug\WebApiAgenda.csproj.C
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\obj\Debug\WebApiAgenda.csproj.CopyComplete
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\obj\Debug\WebApiAgenda.dll
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\obj\Debug\WebApiAgenda.pdb
-C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\bin\EntityFramework.SqlServer.dll
 C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda\bin\EntityFramework.SqlServer.xml
