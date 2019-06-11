@@ -28,7 +28,7 @@ namespace WebApiAgenda.Controllers
         public IHttpActionResult Get()
         {
             Log.Debug("Inicio - GET - Contactos");
-            List<ContactoViewModel> contactos = null;
+            List<ContactoViewModel> contactos = new List<ContactoViewModel>();
 
             try
             {

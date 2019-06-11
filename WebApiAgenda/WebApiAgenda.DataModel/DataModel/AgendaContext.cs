@@ -5,12 +5,12 @@ namespace WebApiAgenda.DataModel.DataModel
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Linq;
 
-    public partial class AgendaContext : DbContext, IDisposable
+    public partial class AgendaContext : DbContext
     {
         public AgendaContext()
-            : base("name=AgendaDB")
+            : base("AgendaDB")
         {
-            Database.CreateIfNotExists();
+            //Database.CreateIfNotExists();
         }
 
         public virtual DbSet<ContactoEntity> Contactos { get; set; }

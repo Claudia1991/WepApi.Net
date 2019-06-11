@@ -1,0 +1,42 @@
+[BEGIN LOGGING AT 2019-06-11 10:31:23,897]
+
+[END LOGGING AT 2019-06-11 10:31:23,914]
+[BEGIN LOGGING AT 2019-06-11 10:31:24,299]
+2019-06-11 10:32:36,161 - 169 - 12 - Error: 
+2019-06-11 10:32:38,507 - 51 - 12 - Error: No connection string named 'AgendaDB' could be found in the application config file.
+[BEGIN LOGGING AT 2019-06-11 10:35:00,959]
+
+[END LOGGING AT 2019-06-11 10:35:00,971]
+[BEGIN LOGGING AT 2019-06-11 10:35:01,304]
+2019-06-11 10:35:48,979 - 169 - 11 - Error: 
+2019-06-11 10:35:51,244 - 51 - 11 - Error: Referencia a objeto no establecida como instancia de un objeto.
+[BEGIN LOGGING AT 2019-06-11 10:37:21,923]
+
+[END LOGGING AT 2019-06-11 10:37:21,934]
+[BEGIN LOGGING AT 2019-06-11 10:37:22,249]
+2019-06-11 10:38:09,366 - 169 - 10 - Error: 
+2019-06-11 10:38:11,770 - 51 - 10 - Error: No connection string named 'AgendaDB' could be found in the application config file.
+[BEGIN LOGGING AT 2019-06-11 10:44:00,346]
+
+[END LOGGING AT 2019-06-11 10:44:00,362]
+[BEGIN LOGGING AT 2019-06-11 10:45:06,995]
+
+[END LOGGING AT 2019-06-11 10:45:07,006]
+[BEGIN LOGGING AT 2019-06-11 11:01:01,983]
+
+[END LOGGING AT 2019-06-11 11:01:01,994]
+[BEGIN LOGGING AT 2019-06-11 11:01:02,495]
+2019-06-11 11:02:04,529 - 169 - 9 - Error: 
+2019-06-11 11:02:06,738 - 51 - 9 - Error: No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+[BEGIN LOGGING AT 2019-06-11 11:07:30,084]
+
+[END LOGGING AT 2019-06-11 11:07:30,094]
+[BEGIN LOGGING AT 2019-06-11 11:07:30,580]
+2019-06-11 11:07:46,680 - 169 - 10 - Error: 
+2019-06-11 11:07:55,750 - 51 - 10 - Error: No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+[BEGIN LOGGING AT 2019-06-11 11:19:59,599]
+
+[END LOGGING AT 2019-06-11 11:19:59,610]
+[BEGIN LOGGING AT 2019-06-11 11:22:43,905]
+
+[END LOGGING AT 2019-06-11 11:22:43,923]

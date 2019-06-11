@@ -10,3 +10,15 @@ C:\Projects\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel
 C:\Projects\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.csproj.CopyComplete
 C:\Projects\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.dll
 C:\Projects\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.pdb
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\bin\Debug\WebApiAgenda.DataModel.dll.config
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\bin\Debug\WebApiAgenda.DataModel.dll
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\bin\Debug\WebApiAgenda.DataModel.pdb
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\bin\Debug\EntityFramework.dll
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\bin\Debug\EntityFramework.xml
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.csprojAssemblyReference.cache
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.csproj.CoreCompileInputs.cache
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.csproj.CopyComplete
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.dll
+C:\Projects\WepApi.Net\WebApiAgenda\WebApiAgenda.DataModel\obj\Debug\WebApiAgenda.DataModel.pdb

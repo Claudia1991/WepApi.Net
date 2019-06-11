@@ -1,0 +1,57 @@
+[BEGIN LOGGING AT 2019-06-11 10:31:23,648]
+
+[END LOGGING AT 2019-06-11 10:31:23,680]
+[BEGIN LOGGING AT 2019-06-11 10:31:24,058]
+2019-06-11 10:31:35,333 - 30 - 12 - Inicio - GET - Contactos
+2019-06-11 10:32:35,737 - 168 - 12 - Error: 
+2019-06-11 10:32:38,876 - 52 - 12 - Error: No connection string named 'AgendaDB' could be found in the application config file.
+[BEGIN LOGGING AT 2019-06-11 10:35:00,761]
+
+[END LOGGING AT 2019-06-11 10:35:00,772]
+[BEGIN LOGGING AT 2019-06-11 10:35:01,084]
+2019-06-11 10:35:12,652 - 30 - 11 - Inicio - GET - Contactos
+2019-06-11 10:35:47,259 - 168 - 11 - Error: 
+2019-06-11 10:35:51,570 - 52 - 11 - Error: Referencia a objeto no establecida como instancia de un objeto.
+[BEGIN LOGGING AT 2019-06-11 10:37:21,741]
+
+[END LOGGING AT 2019-06-11 10:37:21,762]
+[BEGIN LOGGING AT 2019-06-11 10:37:22,021]
+2019-06-11 10:37:22,394 - 30 - 10 - Inicio - GET - Contactos
+2019-06-11 10:38:08,923 - 168 - 10 - Error: 
+2019-06-11 10:38:12,210 - 52 - 10 - Error: No connection string named 'AgendaDB' could be found in the application config file.
+[BEGIN LOGGING AT 2019-06-11 10:44:00,166]
+
+[END LOGGING AT 2019-06-11 10:44:00,183]
+[BEGIN LOGGING AT 2019-06-11 10:44:00,462]
+2019-06-11 10:44:00,846 - 30 - 9 - Inicio - GET - Contactos
+[BEGIN LOGGING AT 2019-06-11 10:45:06,822]
+
+[END LOGGING AT 2019-06-11 10:45:06,834]
+[BEGIN LOGGING AT 2019-06-11 10:45:07,085]
+2019-06-11 10:45:07,490 - 30 - 10 - Inicio - GET - Contactos
+[BEGIN LOGGING AT 2019-06-11 11:01:01,752]
+
+[END LOGGING AT 2019-06-11 11:01:01,770]
+[BEGIN LOGGING AT 2019-06-11 11:01:02,294]
+2019-06-11 11:01:02,788 - 30 - 9 - Inicio - GET - Contactos
+2019-06-11 11:02:03,966 - 168 - 9 - Error: 
+2019-06-11 11:02:07,164 - 52 - 9 - Error: No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+[BEGIN LOGGING AT 2019-06-11 11:07:29,929]
+
+[END LOGGING AT 2019-06-11 11:07:29,942]
+[BEGIN LOGGING AT 2019-06-11 11:07:30,209]
+2019-06-11 11:07:30,750 - 30 - 10 - Inicio - GET - Contactos
+2019-06-11 11:07:46,227 - 168 - 10 - Error: 
+2019-06-11 11:07:56,726 - 52 - 10 - Error: No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+[BEGIN LOGGING AT 2019-06-11 11:19:59,430]
+
+[END LOGGING AT 2019-06-11 11:19:59,449]
+[BEGIN LOGGING AT 2019-06-11 11:19:59,919]
+2019-06-11 11:20:00,646 - 30 - 9 - Inicio - GET - Contactos
+[BEGIN LOGGING AT 2019-06-11 11:22:43,620]
+
+[END LOGGING AT 2019-06-11 11:22:43,635]
+[BEGIN LOGGING AT 2019-06-11 11:22:44,120]
+2019-06-11 11:22:44,500 - 30 - 9 - Inicio - GET - Contactos
+2019-06-11 11:23:56,926 - 158 - 9 - Se devuelve la lista de contactos obtenida.
+2019-06-11 11:24:06,870 - 45 - 9 - Se devuelven los contactos obtenidos
