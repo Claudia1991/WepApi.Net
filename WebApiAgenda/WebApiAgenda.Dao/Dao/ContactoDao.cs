@@ -4,6 +4,7 @@ using WebApiAgenda.DataModel.DataModel;
 using System;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Data.Entity;
 
 namespace WebApiAgenda.Dao.Dao
 {
@@ -52,23 +53,17 @@ namespace WebApiAgenda.Dao.Dao
 
         public bool Delete(int id)
         {
-            bool isDeleted = false;
-            bool isExistElement = false;
-            ContactoEntity contactoEntity = new ContactoEntity()
-            {
-                IdContacto = id
-            };
+            int resultSaveChanges = 0;
             try
             {
                 using (var context = new AgendaContext())
                 {
-                    isExistElement = context.Contactos.ToList().Any(c=>c.IdContacto == contactoEntity.IdContacto);
-                    if (isExistElement)
+                    var elementToDelete = context.Contactos.FirstOrDefault(c=>c.IdContacto == id);
+                    if (elementToDelete != null)
                     {
-                        context.Entry(contactoEntity).State = System.Data.Entity.EntityState.Deleted;
-                        context.SaveChanges();
+                        context.Entry(elementToDelete).State = System.Data.Entity.EntityState.Deleted;
+                        resultSaveChanges = context.SaveChanges();
                         Log.Debug("Se elimino el contacto.");
-                        isDeleted = !isDeleted;
                     }
                     else
                     {
@@ -91,32 +86,26 @@ namespace WebApiAgenda.Dao.Dao
                 Log.Error(string.Format("Error: {0}", ex.InnerException));
                 throw ex;
             }
-            return isDeleted;
+            return resultSaveChanges > 0;
         }
 
         public bool Edit(ContactoViewModel viewModel)
         {
-            bool isEdited = false;
-            bool isExistElement = false;
-            ContactoEntity contactoEntity = new ContactoEntity()
-            {
-                IdContacto = viewModel.Id,
-                NombreContacto = viewModel.NombreContacto,
-                ApellidoContacto = viewModel.ApellidoContacto,
-                TelefonoContacto = viewModel.TelefonoContacto,
-                MailContacto = viewModel.MailContacto
-            };
+            int isEdited = 0;
+            int saveChangesResult = 0;
             try
             {
                 using (var context = new AgendaContext())
                 {
-                    isExistElement = context.Contactos.ToList().Any(c => c.IdContacto == contactoEntity.IdContacto);
-                    if (isExistElement)
+                    var contacto = context.Contactos.FirstOrDefault(c=> c.IdContacto == viewModel.Id);
+                    if (contacto!=null)
                     {
-                        context.Entry(contactoEntity).State = System.Data.Entity.EntityState.Modified;
-                        context.SaveChanges();
+                        contacto.NombreContacto = viewModel.NombreContacto;
+                        contacto.ApellidoContacto = viewModel.ApellidoContacto;
+                        contacto.TelefonoContacto = viewModel.TelefonoContacto;
+                        contacto.MailContacto = viewModel.MailContacto;
+                        saveChangesResult = context.SaveChanges();
                         Log.Debug("Se edito el contacto.");
-                        isEdited = !isEdited;
                     }
                     else
                     {
@@ -139,7 +128,7 @@ namespace WebApiAgenda.Dao.Dao
                 Log.Error(string.Format("Error: {0}", ex.InnerException));
                 throw ex;
             }
-            return isEdited;
+            return saveChangesResult > isEdited;
         }
 
         public List<ContactoViewModel> GetAll()

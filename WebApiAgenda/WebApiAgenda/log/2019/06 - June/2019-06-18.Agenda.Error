@@ -1,0 +1,51 @@
+[BEGIN LOGGING AT 2019-06-18 16:56:06,815]
+
+[END LOGGING AT 2019-06-18 16:56:06,823]
+[BEGIN LOGGING AT 2019-06-18 16:56:07,030]
+
+[END LOGGING AT 2019-06-18 16:56:07,041]
+[BEGIN LOGGING AT 2019-06-18 16:56:34,760]
+
+[END LOGGING AT 2019-06-18 16:56:34,768]
+[BEGIN LOGGING AT 2019-06-18 16:56:35,133]
+
+[END LOGGING AT 2019-06-18 16:56:35,147]
+[BEGIN LOGGING AT 2019-06-18 16:58:50,713]
+
+[END LOGGING AT 2019-06-18 16:58:50,725]
+[BEGIN LOGGING AT 2019-06-18 16:58:51,030]
+
+[END LOGGING AT 2019-06-18 16:58:51,042]
+[BEGIN LOGGING AT 2019-06-18 17:01:40,217]
+
+[END LOGGING AT 2019-06-18 17:01:40,235]
+[BEGIN LOGGING AT 2019-06-18 17:01:40,438]
+2019-06-18 17:05:10,233 - 139 - 12 - Error: 
+2019-06-18 17:05:13,674 - 145 - 12 - Error: Attaching an entity of type 'WebApiAgenda.DataModel.DataModel.ContactoEntity' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+[BEGIN LOGGING AT 2019-06-18 17:12:46,115]
+
+[END LOGGING AT 2019-06-18 17:12:46,130]
+[BEGIN LOGGING AT 2019-06-18 17:21:06,942]
+
+[END LOGGING AT 2019-06-18 17:21:06,950]
+[BEGIN LOGGING AT 2019-06-18 17:21:07,218]
+2019-06-18 17:21:29,280 - 141 - 9 - Error: 
+2019-06-18 17:21:38,874 - 145 - 9 - Error: Attaching an entity of type 'WebApiAgenda.DataModel.DataModel.ContactoEntity' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+[BEGIN LOGGING AT 2019-06-18 17:28:53,966]
+
+[END LOGGING AT 2019-06-18 17:28:53,975]
+[BEGIN LOGGING AT 2019-06-18 17:28:54,251]
+2019-06-18 17:30:34,110 - 146 - 10 - Error: 
+2019-06-18 17:30:34,177 - 145 - 10 - Error: Attaching an entity of type 'WebApiAgenda.DataModel.DataModel.ContactoEntity' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+[BEGIN LOGGING AT 2019-06-18 17:38:38,311]
+
+[END LOGGING AT 2019-06-18 17:38:38,319]
+[BEGIN LOGGING AT 2019-06-18 17:39:48,733]
+
+[END LOGGING AT 2019-06-18 17:39:48,744]
+[BEGIN LOGGING AT 2019-06-18 17:53:40,088]
+
+[END LOGGING AT 2019-06-18 17:53:40,098]
+[BEGIN LOGGING AT 2019-06-18 17:56:04,014]
+
+[END LOGGING AT 2019-06-18 17:56:04,027]

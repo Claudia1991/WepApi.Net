@@ -1,0 +1,76 @@
+[BEGIN LOGGING AT 2019-06-18 16:56:06,585]
+
+[END LOGGING AT 2019-06-18 16:56:06,597]
+[BEGIN LOGGING AT 2019-06-18 16:56:06,898]
+
+[END LOGGING AT 2019-06-18 16:56:06,906]
+[BEGIN LOGGING AT 2019-06-18 16:56:34,616]
+
+[END LOGGING AT 2019-06-18 16:56:34,629]
+[BEGIN LOGGING AT 2019-06-18 16:56:34,824]
+2019-06-18 16:56:36,475 - 30 - 12 - Inicio - GET - Contactos
+2019-06-18 16:57:55,172 - 164 - 12 - Se devuelve la lista de contactos obtenida.
+2019-06-18 16:58:07,334 - 45 - 12 - Se devuelven los contactos obtenidos
+
+[END LOGGING AT 2019-06-18 16:56:34,833]
+[BEGIN LOGGING AT 2019-06-18 16:58:50,584]
+
+[END LOGGING AT 2019-06-18 16:58:50,598]
+[BEGIN LOGGING AT 2019-06-18 16:58:50,861]
+2019-06-18 16:58:51,104 - 61 - 12 - Inicio - GET - Contactos
+2019-06-18 16:59:22,285 - 76 - 12 - Se devuelven los contactos obtenidos
+
+[END LOGGING AT 2019-06-18 16:58:50,877]
+[BEGIN LOGGING AT 2019-06-18 17:01:40,024]
+
+[END LOGGING AT 2019-06-18 17:01:40,039]
+[BEGIN LOGGING AT 2019-06-18 17:01:40,312]
+2019-06-18 17:02:19,954 - 117 - 12 - Inicio - PUT - Contactos
+2019-06-18 17:05:09,846 - 138 - 12 - Error: 
+2019-06-18 17:05:13,335 - 144 - 12 - Error: Attaching an entity of type 'WebApiAgenda.DataModel.DataModel.ContactoEntity' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+[BEGIN LOGGING AT 2019-06-18 17:12:45,911]
+
+[END LOGGING AT 2019-06-18 17:12:45,925]
+[BEGIN LOGGING AT 2019-06-18 17:12:46,226]
+2019-06-18 17:12:55,998 - 117 - 9 - Inicio - PUT - Contactos
+2019-06-18 17:13:51,052 - 139 - 9 - Error: 
+[BEGIN LOGGING AT 2019-06-18 17:21:06,790]
+
+[END LOGGING AT 2019-06-18 17:21:06,803]
+[BEGIN LOGGING AT 2019-06-18 17:21:07,055]
+2019-06-18 17:21:09,751 - 117 - 9 - Inicio - PUT - Contactos
+2019-06-18 17:21:26,807 - 140 - 9 - Error: 
+2019-06-18 17:21:38,568 - 144 - 9 - Error: Attaching an entity of type 'WebApiAgenda.DataModel.DataModel.ContactoEntity' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+[BEGIN LOGGING AT 2019-06-18 17:28:53,797]
+
+[END LOGGING AT 2019-06-18 17:28:53,808]
+[BEGIN LOGGING AT 2019-06-18 17:28:54,068]
+2019-06-18 17:29:24,667 - 117 - 10 - Inicio - PUT - Contactos
+2019-06-18 17:30:34,099 - 145 - 10 - Error: 
+2019-06-18 17:30:34,176 - 144 - 10 - Error: Attaching an entity of type 'WebApiAgenda.DataModel.DataModel.ContactoEntity' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+[BEGIN LOGGING AT 2019-06-18 17:38:38,139]
+
+[END LOGGING AT 2019-06-18 17:38:38,155]
+[BEGIN LOGGING AT 2019-06-18 17:38:38,419]
+2019-06-18 17:38:39,058 - 117 - 9 - Inicio - PUT - Contactos
+[BEGIN LOGGING AT 2019-06-18 17:39:48,561]
+
+[END LOGGING AT 2019-06-18 17:39:48,571]
+[BEGIN LOGGING AT 2019-06-18 17:39:48,946]
+2019-06-18 17:39:49,594 - 117 - 9 - Inicio - PUT - Contactos
+2019-06-18 17:40:00,555 - 119 - 9 - Se edito el contacto.
+2019-06-18 17:40:09,806 - 132 - 9 - Se edito el contacto.
+[BEGIN LOGGING AT 2019-06-18 17:53:39,936]
+
+[END LOGGING AT 2019-06-18 17:53:39,947]
+[BEGIN LOGGING AT 2019-06-18 17:53:40,222]
+2019-06-18 17:53:40,908 - 117 - 10 - Inicio - PUT - Contactos
+2019-06-18 17:54:21,933 - 114 - 10 - Se edito el contacto.
+2019-06-18 17:54:28,780 - 132 - 10 - Se edito el contacto.
+[BEGIN LOGGING AT 2019-06-18 17:56:03,843]
+
+[END LOGGING AT 2019-06-18 17:56:03,859]
+[BEGIN LOGGING AT 2019-06-18 17:56:04,113]
+2019-06-18 17:56:04,822 - 117 - 11 - Inicio - PUT - Contactos
+2019-06-18 17:56:44,310 - 115 - 11 - Se edito el contacto.
+2019-06-18 17:56:55,582 - 132 - 11 - Se edito el contacto.
