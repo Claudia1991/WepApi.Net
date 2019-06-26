@@ -27,3 +27,19 @@
 2019-06-19 10:55:26,818 - 154 - 13 - Inicio - DELETE - Contacto
 2019-06-19 10:55:54,684 - 66 - 13 - Se elimino el contacto.
 2019-06-19 10:56:06,942 - 169 - 13 - El contacto fue eliminado.
+[BEGIN LOGGING AT 2019-06-19 16:41:04,591]
+
+[END LOGGING AT 2019-06-19 16:41:04,608]
+[BEGIN LOGGING AT 2019-06-19 16:41:05,454]
+2019-06-19 16:41:08,825 - 30 - 29 - Inicio - GET - Contactos
+2019-06-19 16:42:07,611 - 153 - 29 - Se devuelve la lista de contactos obtenida.
+2019-06-19 16:42:48,055 - 45 - 29 - Se devuelven los contactos obtenidos
+
+[END LOGGING AT 2019-06-19 16:41:05,466]
+[BEGIN LOGGING AT 2019-06-19 16:47:40,367]
+
+[END LOGGING AT 2019-06-19 16:47:40,382]
+[BEGIN LOGGING AT 2019-06-19 16:47:40,640]
+2019-06-19 16:47:40,847 - 30 - 29 - Inicio - GET - Contactos
+2019-06-19 16:47:55,693 - 153 - 29 - Se devuelve la lista de contactos obtenida.
+2019-06-19 16:48:00,974 - 45 - 29 - Se devuelven los contactos obtenidos

@@ -1,0 +1,67 @@
+[BEGIN LOGGING AT 2019-06-25 16:58:03,070]
+
+[END LOGGING AT 2019-06-25 16:58:03,091]
+[BEGIN LOGGING AT 2019-06-25 16:58:03,663]
+2019-06-25 16:58:04,486 - 30 - 25 - Inicio - GET - Contactos
+2019-06-25 16:58:20,222 - 153 - 25 - Se devuelve la lista de contactos obtenida.
+2019-06-25 16:58:20,243 - 45 - 25 - Se devuelven los contactos obtenidos
+
+[END LOGGING AT 2019-06-25 16:58:03,680]
+[BEGIN LOGGING AT 2019-06-25 17:05:58,727]
+
+[END LOGGING AT 2019-06-25 17:05:58,742]
+[BEGIN LOGGING AT 2019-06-25 17:05:59,240]
+2019-06-25 17:05:59,650 - 30 - 25 - Inicio - GET - Contactos
+2019-06-25 17:06:03,142 - 153 - 25 - Se devuelve la lista de contactos obtenida.
+2019-06-25 17:06:03,143 - 45 - 25 - Se devuelven los contactos obtenidos
+
+[END LOGGING AT 2019-06-25 17:05:59,257]
+[BEGIN LOGGING AT 2019-06-25 17:07:26,748]
+
+[END LOGGING AT 2019-06-25 17:07:26,774]
+[BEGIN LOGGING AT 2019-06-25 17:07:27,146]
+2019-06-25 17:07:27,370 - 30 - 20 - Inicio - GET - Contactos
+2019-06-25 17:07:27,374 - 153 - 20 - Se devuelve la lista de contactos obtenida.
+2019-06-25 17:07:27,374 - 45 - 20 - Se devuelven los contactos obtenidos
+
+[END LOGGING AT 2019-06-25 17:07:27,161]
+[BEGIN LOGGING AT 2019-06-25 17:08:12,272]
+
+[END LOGGING AT 2019-06-25 17:08:12,289]
+[BEGIN LOGGING AT 2019-06-25 17:08:12,777]
+2019-06-25 17:08:13,055 - 30 - 20 - Inicio - GET - Contactos
+2019-06-25 17:08:13,059 - 153 - 20 - Se devuelve la lista de contactos obtenida.
+2019-06-25 17:08:13,060 - 45 - 20 - Se devuelven los contactos obtenidos
+[BEGIN LOGGING AT 2019-06-25 21:20:47,709]
+
+[END LOGGING AT 2019-06-25 21:20:47,721]
+[BEGIN LOGGING AT 2019-06-25 21:20:48,159]
+2019-06-25 21:20:48,700 - 30 - 15 - Inicio - GET - Contactos
+2019-06-25 21:20:58,674 - 153 - 15 - Se devuelve la lista de contactos obtenida.
+2019-06-25 21:20:58,676 - 45 - 15 - Se devuelven los contactos obtenidos
+
+[END LOGGING AT 2019-06-25 21:20:48,178]
+[BEGIN LOGGING AT 2019-06-25 21:46:43,066]
+
+[END LOGGING AT 2019-06-25 21:46:43,089]
+[BEGIN LOGGING AT 2019-06-25 21:46:43,469]
+2019-06-25 21:46:43,701 - 30 - 19 - Inicio - GET - Contactos
+2019-06-25 21:46:44,197 - 153 - 19 - Se devuelve la lista de contactos obtenida.
+2019-06-25 21:46:44,197 - 45 - 19 - Se devuelven los contactos obtenidos
+
+[END LOGGING AT 2019-06-25 21:46:43,480]
+[BEGIN LOGGING AT 2019-06-25 22:19:21,785]
+
+[END LOGGING AT 2019-06-25 22:19:21,804]
+[BEGIN LOGGING AT 2019-06-25 22:19:22,166]
+2019-06-25 22:19:33,046 - 92 - 41 - Inicio - POST - Contactos
+2019-06-25 22:19:47,729 - 37 - 41 - Se agrego el contacto.
+
+[END LOGGING AT 2019-06-25 22:19:22,176]
+[BEGIN LOGGING AT 2019-06-25 22:20:04,633]
+
+[END LOGGING AT 2019-06-25 22:20:04,645]
+[BEGIN LOGGING AT 2019-06-25 22:20:04,959]
+2019-06-25 22:20:05,178 - 30 - 41 - Inicio - GET - Contactos
+2019-06-25 22:20:05,182 - 153 - 41 - Se devuelve la lista de contactos obtenida.
+2019-06-25 22:20:05,183 - 45 - 41 - Se devuelven los contactos obtenidos

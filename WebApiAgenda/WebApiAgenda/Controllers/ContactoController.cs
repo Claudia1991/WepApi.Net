@@ -59,6 +59,10 @@ namespace WebApiAgenda.Controllers
         public IHttpActionResult Get(int id)
         {
             Log.Debug("Inicio - GET - Contactos");
+            if (!IsIdValid(id))
+            {
+                return BadRequest("Error en los datos ingresados. Id invalido");
+            }
             ContactoViewModel contacto = null;
 
             try
@@ -91,7 +95,7 @@ namespace WebApiAgenda.Controllers
         {
             Log.Debug("Inicio - POST - Contactos");
 
-            if (!IsNameValid(viewModel.NombreContacto) && !(IsNameValid(viewModel.TelefonoContacto.ToString())))
+            if (IsNameInvalid(viewModel.NombreContacto) && (IsNameInvalid(viewModel.TelefonoContacto.ToString())))
             {
                 Log.Error("Error: parametro vacio");
                 Log.Debug("Error: parametro vacio");
@@ -116,7 +120,7 @@ namespace WebApiAgenda.Controllers
         {
             Log.Debug("Inicio - PUT - Contactos");
 
-            if (!(IsNameValid(viewModel.NombreContacto) || IsIdValid(viewModel.Id)))
+            if ((IsNameInvalid(viewModel.NombreContacto) || IsIdValid(viewModel.Id)))
             {
                 Log.Debug("Error en los datos ingresados.");
                 Log.Error("Error en los datos ingresados.");
@@ -191,9 +195,9 @@ namespace WebApiAgenda.Controllers
             return id > 0;
         }
 
-        private bool IsNameValid(string name)
+        private bool IsNameInvalid(string name)
         {
-            return !string.IsNullOrEmpty(name);
+            return string.IsNullOrEmpty(name);
         }
         #endregion
     }
